@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mammoth": "^1.11.0",
+    "word-extractor": "^1.0.4",
+    "xlsx": "^0.18.5"
+  }
+}

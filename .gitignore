@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.vscode/
+.snapshots/
+extracted_excel_data.txt
+extracted_word_data.txt
