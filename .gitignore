@@ -4,5 +4,3 @@ node_modules/
 .env
 .vscode/
 .snapshots/
-extracted_excel_data.txt
-extracted_word_data.txt
